@@ -15,6 +15,8 @@ Include the improved test code in this file.
 
 ## Answer
 
+Authors: Dufeil Jaufret & Gentile Brian
+
 I used the "JUnitTestContainsTooManyAsserts" with this command : 
 
 ```bash

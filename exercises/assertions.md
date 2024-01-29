@@ -12,6 +12,8 @@ Answer the following questions:
 
 ## Answer
 
+Authors: Dufeil Jaufret & Gentile Brian
+
 1. Multiplication by a float leading to a difference between the expected and the actual result. We should test the actual result with a margin error to take into account even the smallest difference.
 
 2. `assertEquals` uses equals() so it check the values of the objects whereas `assertSame` uses ==, it checks the objects in themselves.

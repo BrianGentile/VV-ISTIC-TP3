@@ -53,6 +53,8 @@ Use the project in [tp3-date](../code/tp3-date) to complete this exercise.
 
 ## Answer
 
+Authors: Dufeil Jaufret & Gentile Brian
+
 1.
 Method: Date(int day, int month, int year)
 Characteristics:

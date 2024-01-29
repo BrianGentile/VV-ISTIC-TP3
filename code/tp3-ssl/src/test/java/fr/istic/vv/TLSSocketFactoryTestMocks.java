@@ -11,6 +11,8 @@ import java.util.List;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
+//Authors: Dufeil Jaufret & Gentile Brian
+
 public class TLSSocketFactoryTestMocks {
 
 

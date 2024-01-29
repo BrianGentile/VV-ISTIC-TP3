@@ -26,6 +26,8 @@ Use the project in [tp3-balanced-strings](../code/tp3-balanced-strings) to compl
 
 ## Answer
 
+Authors: Dufeil Jaufret & Gentile Brian
+
 1. We can split the test cases in multiple partitions:
 
     - balanced strings: strings with balanced symbols
